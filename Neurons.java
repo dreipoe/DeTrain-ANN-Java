@@ -6,7 +6,6 @@
 
 package detrain;
 
-//TODO: Debug it!
 public class Neurons {    
     protected double[] input;
     protected double[] hidden;
